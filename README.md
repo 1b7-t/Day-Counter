@@ -1,6 +1,6 @@
 # Day Counter
 [![](https://img.shields.io/modrinth/dt/XbSc0Kgo?color=00AF5C&label=downloads&logo=modrinth)](https://modrinth.com/datapack/day-counter-1b7) [![](https://cf.way2muchnoise.eu/full_1255394_downloads.svg)](https://www.curseforge.com/minecraft/data-packs/day-counter)
-![](https://cf.way2muchnoise.eu/versions/1255394.svg)
+![](https://cf.way2muchnoise.eu/versions/1255394.svg) [![](https://img.shields.io/discord/1370030733522899075?color=0098DB&label=Discord&logo=discord&logoColor=0098DB)](https://discord.com/invite/4SmBNnQDhu)
 ## About
 Day Counter is a survival datapack which shows the days already played. I created the pack for my hardcore world because I was looking for a simple solution to track my played days. 
 ### Info
