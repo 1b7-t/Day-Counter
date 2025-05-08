@@ -8,6 +8,3 @@ The datapack should be installed before creating the world as it does not recogn
 
 # 
 ![Day Counter Showcase](https://cdn.modrinth.com/data/cached_images/64834ae7fa6ceaed263628563a074ec49a5b4131_0.webp)
-
-# Datapack Install Guide
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5-Jh1TUTnmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
