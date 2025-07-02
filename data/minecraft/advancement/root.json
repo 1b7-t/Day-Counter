@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGY1ZTFmZmI1ODdmZTEyMTYwOGIyYjA1YmRhYmUwOWVmMTJhNGJlOGZkZWIwNmRlYjkzODUzMDQyMDkzNmUzIn19fQ"
+            }
+          ]
+        }
+      }
+    },
+    "title": "1b7",
+    "description": "All loaded 1b7 datapacks",
+    "background": "minecraft:block/andesite",
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
